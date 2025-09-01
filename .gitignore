@@ -1,0 +1,276 @@
+# SIMOVI Brand Repository .gitignore
+
+# =============================================================================
+# Operating System Files
+# =============================================================================
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# macOS Finder info files
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Linux
+*~
+
+# =============================================================================
+# Design Software Files
+# =============================================================================
+
+# Adobe Creative Suite
+*.tmp
+*.swp
+*.swo
+*~.nib
+*.psd~
+*.ai~
+*.indd~
+*.idlk
+*.fla~
+*.xfl~
+
+# Sketch
+*.sketch~
+.sketch-*
+
+# Figma local files
+*.fig.bak
+*.figma.bak
+
+# InVision
+*.invision
+
+# Principle
+*.prd~
+
+# Framer
+*.framer
+
+# =============================================================================
+# Font Files (Temporary/Working Files)
+# =============================================================================
+
+# Font development files
+*.glyphs~
+*.glyphs.bak
+*.ufo~
+*.designspace~
+
+# FontLab files
+*.vfb~
+*.vfc~
+
+# =============================================================================
+# Image Processing
+# =============================================================================
+
+# Photoshop working files
+*.psd.tmp
+*.ai.tmp
+
+# RAW image files (keep processed versions only)
+*.raw
+*.cr2
+*.nef
+*.dng
+*.arw
+*.orf
+
+# Large uncompressed files (use compressed versions in repo)
+*.tiff
+*.bmp
+
+# =============================================================================
+# Video/Animation Files
+# =============================================================================
+
+# Large video files (keep compressed versions)
+*.mov
+*.mp4
+*.avi
+*.wmv
+*.flv
+*.mkv
+
+# After Effects
+*.aep.bak
+*.aep~
+
+# =============================================================================
+# Development Files
+# =============================================================================
+
+# Node modules (if using any build tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+
+# Ruby
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/spec/examples.txt
+/test/tmp/
+/test/version_tmp/
+/tmp/
+
+# =============================================================================
+# Archives & Packages
+# =============================================================================
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Package files
+*.pkg
+*.dmg
+
+# =============================================================================
+# Logs & Databases
+# =============================================================================
+
+# Log files
+*.log
+logs/
+
+# Database files
+*.sqlite
+*.db
+
+# =============================================================================
+# IDE & Editor Files
+# =============================================================================
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Atom
+.atom/
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# =============================================================================
+# Temporary & Cache Files
+# =============================================================================
+
+# General temporary files
+tmp/
+temp/
+cache/
+*.tmp
+*.cache
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# =============================================================================
+# Brand-Specific Ignores
+# =============================================================================
+
+# Work-in-progress folders
+/wip/
+/work-in-progress/
+/drafts/
+
+# Client presentations (keep final versions only)
+/client-reviews/
+/presentations-wip/
+
+# Large source files (keep processed versions)
+/source-files/
+/originals/
+
+# Personal notes and internal docs
+/internal-notes/
+/meeting-notes/
+personal-*.md
+
+# =============================================================================
+# File Size Limits
+# =============================================================================
+
+# Files larger than 100MB (GitHub limit consideration)
+# Add specific large files here as needed
+# *.psd
+# *.ai
+
+# =============================================================================
+# Keep Important Files
+# =============================================================================
+
+# Ensure these files are never ignored (use ! to negate)
+!README.md
+!*.md
+!LICENSE
+!.gitignore
+
+# Keep sample/template files
+!**/templates/**
+!**/samples/**
+!**/examples/**

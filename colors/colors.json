@@ -1,0 +1,92 @@
+{
+  "brand": {
+    "primary": {
+      "blue": {
+        "name": "SIMOVI Blue",
+        "hex": "#1E40AF",
+        "rgb": "30, 64, 175",
+        "cmyk": "83, 63, 0, 31",
+        "hsl": "220, 83%, 40%",
+        "usage": "Primary brand color, main CTAs, headers"
+      },
+      "secondary": {
+        "name": "SIMOVI Secondary",
+        "hex": "#10B981", 
+        "rgb": "16, 185, 129",
+        "cmyk": "72, 0, 86, 0",
+        "hsl": "160, 84%, 39%",
+        "usage": "Secondary actions, accents, success states"
+      }
+    },
+    "neutral": {
+      "black": {
+        "name": "SIMOVI Black",
+        "hex": "#111827",
+        "rgb": "17, 24, 39",
+        "cmyk": "79, 69, 49, 42",
+        "hsl": "220, 39%, 11%",
+        "usage": "Primary text, strong contrast elements"
+      },
+      "gray": {
+        "dark": {
+          "name": "Dark Gray",
+          "hex": "#374151",
+          "rgb": "55, 65, 81",
+          "cmyk": "68, 56, 43, 18",
+          "hsl": "220, 19%, 27%",
+          "usage": "Secondary text, borders"
+        },
+        "medium": {
+          "name": "Medium Gray", 
+          "hex": "#6B7280",
+          "rgb": "107, 114, 128",
+          "cmyk": "49, 40, 30, 5",
+          "hsl": "220, 9%, 46%",
+          "usage": "Placeholder text, inactive elements"
+        },
+        "light": {
+          "name": "Light Gray",
+          "hex": "#F3F4F6",
+          "rgb": "243, 244, 246",
+          "cmyk": "2, 1, 1, 0",
+          "hsl": "220, 14%, 96%",
+          "usage": "Backgrounds, subtle borders"
+        }
+      },
+      "white": {
+        "name": "Pure White",
+        "hex": "#FFFFFF",
+        "rgb": "255, 255, 255", 
+        "cmyk": "0, 0, 0, 0",
+        "hsl": "0, 0%, 100%",
+        "usage": "Primary background, text on dark backgrounds"
+      }
+    },
+    "semantic": {
+      "success": {
+        "name": "Success Green",
+        "hex": "#10B981",
+        "rgb": "16, 185, 129", 
+        "cmyk": "72, 0, 86, 0",
+        "hsl": "160, 84%, 39%",
+        "usage": "Success messages, positive actions"
+      },
+      "warning": {
+        "name": "Warning Orange",
+        "hex": "#F59E0B",
+        "rgb": "245, 158, 11",
+        "cmyk": "4, 40, 92, 0", 
+        "hsl": "38, 92%, 50%",
+        "usage": "Warning messages, caution states"
+      },
+      "error": {
+        "name": "Error Red",
+        "hex": "#EF4444",
+        "rgb": "239, 68, 68",
+        "cmyk": "5, 81, 74, 0",
+        "hsl": "0, 84%, 60%",
+        "usage": "Error messages, destructive actions"
+      }
+    }
+  }
+}
