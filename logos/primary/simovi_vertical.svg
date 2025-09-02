@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="67.54126"
+   height="51.459023"
+   id="svg4123"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4125" />
+  <metadata
+     id="metadata4128">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-439.3153,-657.02045)">
+    <text
+       xml:space="preserve"
+       style="font-size:7.14719px;line-height:1.25;font-family:sans-serif;stroke-width:0.382885"
+       x="439.0795"
+       y="689.99927"
+       id="text10"><tspan
+         id="tspan8"
+         x="439.0795"
+         y="689.99927"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.14719px;line-height:1.25;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';fill:#505050;fill-opacity:1;stroke-width:0.382885">Laboratorio de</tspan><tspan
+         x="439.0795"
+         y="699.20007"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.14719px;line-height:1.25;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Bold';fill:#505050;fill-opacity:1;stroke-width:0.382885"
+         id="tspan10">Sistemas Inteligentes </tspan><tspan
+         x="439.0795"
+         y="708.40088"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.14719px;line-height:1.25;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Bold';fill:#505050;fill-opacity:1;stroke-width:0.382885"
+         id="tspan20">de Movilidad</tspan></text>
+    <text
+       font-size="18.2242"
+       id="text18"
+       style="font-size:19.4391px;line-height:0%;font-family:MyriadPro-SemiExt;text-align:end;text-anchor:end;stroke-width:1.06667"
+       x="508.58456"
+       y="671.65509"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-expanded;font-size:21.3333px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Semi-Expanded';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#282828;fill-opacity:1;stroke-width:1.06667"
+         id="tspan18">SIMOVI</tspan></text>
+    <rect
+       style="opacity:1;fill:#00c0f3;fill-opacity:1;stroke-width:3.35704;stroke-linecap:round;stroke-dasharray:7.92269, 7.92269"
+       id="rect19"
+       width="67.541"
+       height="1.541"
+       x="439.31531"
+       y="678.30518" />
+  </g>
+</svg>

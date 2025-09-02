@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="251.73856"
+   height="25.206223"
+   id="svg4123"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4125" />
+  <metadata
+     id="metadata4128">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-397.17957,-515.09863)">
+    <g
+       id="g18">
+      <line
+         stroke-miterlimit="10"
+         x1="397.17957"
+         y1="537.20001"
+         x2="464.72055"
+         y2="537.20001"
+         id="line75"
+         style="fill:none;stroke:#00c0f3;stroke-width:1.45103;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g16">
+        <text
+           font-size="18.2242"
+           id="text77"
+           style="font-size:19.4391px;line-height:0%;font-family:MyriadPro-SemiExt;text-align:end;text-anchor:end;stroke-width:1.06667"
+           x="466.44882"
+           y="529.73334"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-expanded;font-size:21.3333px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Semi-Expanded';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#282828;fill-opacity:1;stroke-width:1.06667"
+             id="tspan3302">SIMOVI</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:11.4245px;line-height:1.25;font-family:sans-serif;fill:#646466;fill-opacity:1;stroke-width:0.612024"
+         x="472.51236"
+         y="523.21002"
+         id="text12"><tspan
+           id="tspan11"
+           x="472.51236"
+           y="523.21002"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.4245px;line-height:1.25;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';fill:#505050;fill-opacity:1;stroke-width:0.612024">Laboratorio de</tspan><tspan
+           x="472.51236"
+           y="537.91711"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.4245px;line-height:1.25;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Bold';fill:#505050;fill-opacity:1;stroke-width:0.612024"
+           id="tspan12">Sistemas Inteligentes de Movilidad</tspan></text>
+    </g>
+  </g>
+</svg>
